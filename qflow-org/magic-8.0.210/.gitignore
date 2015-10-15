@@ -1,0 +1,10 @@
+defs.mak
+Depend
+config.cache
+config.log
+*.o
+*.so
+*~
+scmos/cif_template/objs/*
+UPDATE_ME
+VERSION

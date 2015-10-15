@@ -1,0 +1,12 @@
+config.cache
+config.status
+config.log
+src/Makefile
+scripts/Makefile
+scripts/qflow.sh
+tech/Makefile
+Makefile
+src/*.o
+*~
+UPDATE_ME
+VERSION

@@ -1,0 +1,13 @@
+qrouter
+config.cache
+config.status
+config.log
+Makefile
+qrouterexec
+qrouter.sh
+qrouter.tcl
+*.o
+*.so
+*~
+UPDATE_ME
+VERSION
